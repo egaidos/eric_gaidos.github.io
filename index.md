@@ -1,9 +1,6 @@
-## Welcome to my Web Site
+### Welcome to my Web Site
 
-There will be more stuff here soon.   Patience.....
-## You can use the [editor on GitHub](https://github.com/egaidos/eric_gaidos.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-I am Professor in the Department of Earth Sciences at the University of Hawai'i at Mānoa.  
+I am Professor in the Department of Earth Sciences at the University of Hawai'i at Mānoa.  I am in interested in how rocky Earth-like planets form and evolve as potential habitats for life, the study of such objects around other stars (exoplanets).  
 
 ##Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
